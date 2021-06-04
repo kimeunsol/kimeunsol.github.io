@@ -1,5 +1,16 @@
 theme: jekyll-theme-minimal
 
-title: Eun-Sol Kim
-description: Personal Homepage of Eun-Sol Kim
+#title: Eun-Sol Kim
+#description: Personal Homepage of Eun-Sol Kim
 logo: asset/eunsolkim.png
+
+author:
+  name             : "Eun-Sol Kim"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "AI Research Scientist"
+  location         : "Somewhere"
+  email            : "kimeunsol.001 (at) gmail.com"
+  links:
+    - label: "CV"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "https://github.com/kimeunsol/kimeunsol.github.io/blob/main/eunsolkim.png"
