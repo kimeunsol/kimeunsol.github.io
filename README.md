@@ -3,6 +3,7 @@ I am a research scientist at Kakao Brain. I finished my Ph.D. at Seoul National 
 My research interests include machine learning 
 
 
-## Publications
+## Publication
+
 
 ## Talks
